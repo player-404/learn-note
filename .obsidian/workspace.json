@@ -11,7 +11,7 @@
             "id": "5a727a759433415d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -120,13 +120,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "f9b6b9f4f8a6baa0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,6 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5a727a759433415d",
-  "lastOpenFiles": []
+  "active": "f9b6b9f4f8a6baa0",
+  "lastOpenFiles": [
+    "img",
+    "后端",
+    "前端"
+  ]
 }
