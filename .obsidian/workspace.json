@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "97513354c300679e",
+        "id": "9cb0664af284da8e",
         "type": "tabs",
         "children": [
           {
-            "id": "5a727a759433415d",
+            "id": "c8aaf9f9a89bebcf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/vite/基础入门.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "基础入门"
+              "title": "新标签页"
             }
           }
         ]
@@ -140,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/vite/基础入门.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基础入门 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -166,9 +161,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5a727a759433415d",
+  "active": "5536a5c866c38941",
   "lastOpenFiles": [
     "xmind/前端/vite/vite.xmind",
+    "前端/vite/基础入门.md",
     "xmind/前端/vite",
     "xmind/前端/未命名文件夹",
     "xmind/前端",
@@ -177,8 +173,6 @@
     "xmind",
     "前端/xmind/vite.xmind",
     "前端/xmind",
-    "前端/未命名文件夹",
-    "前端/vite/xmind/vite.xmind",
-    "前端/vite/基础入门.md"
+    "前端/未命名文件夹"
   ]
 }
