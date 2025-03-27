@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97513354c300679e",
+        "id": "9cb0664af284da8e",
         "type": "tabs",
         "children": [
           {
-            "id": "5a727a759433415d",
+            "id": "c8aaf9f9a89bebcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -139,42 +139,57 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "xmind/前端/js/异步函数.md"
               },
               "icon": "lucide-list",
               "title": "异步函数 的大纲"
-            }
+=======
+                "followCursor": false,
+              "showSearch": false,
+              "searchQuery": ""
+            },
+            "icon": "lucide-list",
+            "title": "大纲"
+>>>>>>> f746c15dc41758e2d6f9a98b04aeae246076c9f0
           }
-        ],
-        "currentTab": 3
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+        }
+      ],
+      "currentTab": 3
     }
-  },
-  "active": "5a727a759433415d",
-  "lastOpenFiles": [
-    "前端/vite/基础入门.md",
-    "xmind/前端/js/异步函数.md",
-    "xmind/前端/js",
-    "xmind/前端/vite/vite.xmind",
-    "xmind/前端/vite",
-    "xmind/前端/未命名文件夹",
-    "xmind/前端",
-    "xmind/未命名文件夹",
-    "xmind/vite.xmind",
-    "xmind",
-    "前端/xmind/vite.xmind",
+  ],
+  "direction": "horizontal",
+  "width": 300
+},
+"left-ribbon": {
+  "hiddenItems": {
+    "switcher:打开快速切换": false,
+    "graph:查看关系图谱": false,
+    "canvas:新建白板": false,
+    "daily-notes:打开/创建今天的日记": false,
+    "templates:插入模板": false,
+    "command-palette:打开命令面板": false
+  }
+},
+"active": "5536a5c866c38941",
+"lastOpenFiles": [
+  "前端/vite/基础入门.md",
+  "xmind/前端/js/异步函数.md",
+  "xmind/前端/js",
+  "xmind/前端/vite/vite.xmind",
+  "前端/vite/基础入门.md",
+  "xmind/前端/vite",
+  "xmind/前端/未命名文件夹",
+  "xmind/前端",
+  "xmind/未命名文件夹",
+  "xmind/vite.xmind",
+  "xmind",
+  "前端/xmind/vite.xmind",
+<<<<<<< HEAD
     "前端/xmind"
-  ]
+=======
+    "前端/xmind",
+  "前端/未命名文件夹"
+>>>>>>> f746c15dc41758e2d6f9a98b04aeae246076c9f0
+]
 }
