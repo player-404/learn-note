@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/vite/基础入门.md",
+                "file": "前端/vite/解决方案.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基础入门"
+              "title": "解决方案"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/vite/基础入门.md",
+                "file": "前端/vite/解决方案.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基础入门 的大纲"
+              "title": "解决方案 的大纲"
             }
           }
         ],
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,11 +169,13 @@
   },
   "active": "7103927791d7d531",
   "lastOpenFiles": [
+    "前端/vite/基础配置.md",
+    "前端/vite/解决方案.md",
+    "前端/vite/示例配置.md",
     "运维/linux/linux 配置.md",
     "运维/git/git命令.md",
     "运维/git",
     "xmind/前端/js/异步函数.md",
-    "前端/vite/基础入门.md",
     "运维/未命名.md",
     "运维/linux",
     "运维"

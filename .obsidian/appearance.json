@@ -1,6 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Cupertino",
-  "theme": "obsidian",
-  "baseFontSize": 18
+  "cssTheme": "Primary",
+  "theme": "moonstone",
+  "baseFontSize": 24,
+  "baseFontSizeAction": true
 }
