@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "后端/解决方案.md",
+                "file": "后端/nest/2.异常过滤器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "解决方案"
+              "title": "2.异常过滤器"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/vite/解决方案.md",
-                "followCursor": false,
+                "file": "后端/nest/2.异常过滤器.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "解决方案 的大纲"
+              "title": "2.异常过滤器 的大纲"
             }
           }
         ],
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,17 +168,31 @@
   },
   "active": "7103927791d7d531",
   "lastOpenFiles": [
+    "后端/nest/img/p1.png",
+    "后端/nest/p1.png",
+    "后端/nest/img",
+    "后端/nest/新建文件夹",
+    "后端/nest/微信截图_20250611230630.png",
+    "后端/nest/1.controller 控制器.md",
+    "后端/nest/2.异常过滤器.md",
+    "后端/nest/命令.md",
+    "后端/mongo/安装&配置.md",
+    "面试/ts.md",
+    "面试/js.md",
+    "后端/解决方案.md",
+    "后端/node/进程处理.md",
+    "运维/git/git命令.md",
+    "前端/vite/解决方案.md",
+    "前端/vite/基础配置.md",
+    "前端/vite/示例配置.md",
     "面试/浏览器.md",
     "面试/项目综合.md",
-    "面试/ts.md",
+    "面试/css.md",
+    "面试/vue.md",
     "面试/webpack.md",
-    "后端/解决方案.md",
+    "前端/js/异步函数.md",
     "未命名.md",
-    "前端/vite/基础配置.md",
     "运维/linux/linux 配置.md",
-    "前端/vite/解决方案.md",
-    "运维/git/git命令.md",
-    "前端/vite/示例配置.md",
     "运维/git",
     "xmind/前端/js/异步函数.md",
     "运维/未命名.md",

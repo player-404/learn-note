@@ -3,5 +3,18 @@
   "shiba-theme-settings@@shiba-colors-theme-light": "lily-light",
   "obsidian-joval-theme@@glob-fonts": "fontmod-1",
   "primary-theme@@interface_editor-bg": "editor-bg-default",
-  "obsidian-joval-theme@@custom-fsz-1": 22
+  "obsidian-joval-theme@@custom-fsz-1": 22,
+  "id@@colorblind_protan-deutan": false,
+  "ulu-theme-settings@@ulu-subtheme-selection": "ulu-we3",
+  "ulu-theme-settings@@ulu-color-accent": "ulu-blue",
+  "ulu-theme-settings@@ulu-theme-light": "ulu-red-l",
+  "ulu-theme-settings@@ulu-theme-dark": "ulu-accent-bg-d",
+  "ulu-theme-settings@@ulu-cards-border": false,
+  "ulu-theme-settings@@ulu-font-general": "Monaspace",
+  "things-style@@mobile-black-background": true,
+  "things-style@@active-line": true,
+  "things-style@@fancy-code": true,
+  "things-style@@no-kanban-styles": false,
+  "things-style@@fancy-highlight": false,
+  "shiba-theme-settings@@shiba-colors-theme-dark": "pure-dark"
 }
